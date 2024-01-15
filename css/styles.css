@@ -6,3 +6,10 @@ body {
 a {
   background-color: yellow;
 }
+
+img {
+  height: auto;
+  max-width: 20%;
+  display: block;
+  margin: 0 auto;
+}
